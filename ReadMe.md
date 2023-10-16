@@ -16,7 +16,7 @@ The Qiskit Fall Fest is a global series of quantum computing events organized an
 
 ## Organizing Team & Contact Info
 * Jayasri 
-* Sriya Bada
+* [Sriya Bada](https://github.com/SriyaKaling43)
 * [Abhi Muvva](https://github.com/Abhi-Muvva)
 * [Sreeraj](https://github.com/MahindraRajan) 
 
