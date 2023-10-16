@@ -8,7 +8,7 @@ The Qiskit Fall Fest is a global series of quantum computing events organized an
 ## Event Details
 - Date: 17th October 2023
 - Venue: LT1
-- Timings: 6:30pmk - 8:30pm
+- Timings: 6:30pm - 8:30pm
 
 ## Resources
 ### Here is a Youtube video which might help you with Lab 2:
@@ -17,6 +17,6 @@ The Qiskit Fall Fest is a global series of quantum computing events organized an
 ## Organizing Team & Contact Info
 * Jayasri 
 * Sriya Bada
-* Abhi Muvva
-* Sreeraj 
+* [Abhi Muvva](https://github.com/Abhi-Muvva)
+* [Sreeraj](https://github.com/MahindraRajan) 
 
