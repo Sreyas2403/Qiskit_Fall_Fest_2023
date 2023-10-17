@@ -58,8 +58,8 @@ Qiskit Fall Fest Challenges notebooks
 * [The Quantum Enigmas 001](https://www.youtube.com/watch?v=c1beJIg8lRs&list=PLtn704u3JW-J3yBVF7WVPHXCb4vkhmem9&index=2)
 
 ## Organizing Team & Contact Info
-* Jayasri 
-* [Sriya Bada](https://github.com/SriyaKaling43)
+* Jayasri
 * [Abhi Muvva](https://github.com/Abhi-Muvva)
+* [Sriya Bada](https://github.com/SriyaKaling43)
 * [Sreeraj](https://github.com/MahindraRajan) 
 
