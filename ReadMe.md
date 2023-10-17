@@ -11,7 +11,7 @@ The Qiskit Fall Fest is a global series of quantum computing events organized an
 - Timings: 6:30pm - 8:30pm
 
 ## IF USING IBM QUANTUM LAB
-You’re ready to begin! Watch the video included in this .zip file for instructions on how to 
+You’re ready to begin! Watch the video included in this repository for instructions on how to 
 upload the notebooks and also get your images working properly.
 
 ## IF USING A HOSTED JUPYTER ENVIRONMENT 
